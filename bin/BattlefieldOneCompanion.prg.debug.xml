@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="9" pc="268435456" symbol="onReceieve"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="10" pc="268435460" symbol="onReceieve"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="11" pc="268435471" symbol="onReceieve"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="12" pc="268435494" symbol="onReceieve"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="14" pc="268435520" symbol="onReceieve"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="17" pc="268435526" symbol="onReceieve"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="19" pc="268435552" symbol="onReceieve"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="24" pc="268435559" symbol="GetData"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="26" pc="268435563" symbol="GetData"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="27" pc="268435570" symbol="GetData"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="28" pc="268435577" symbol="GetData"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="29" pc="268435605" symbol="GetData"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="30" pc="268435632" symbol="GetData"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="33" pc="268435659" symbol="RefreshData"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="35" pc="268435663" symbol="RefreshData"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="36" pc="268435670" symbol="RefreshData"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="37" pc="268435680" symbol="RefreshData"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="38" pc="268435708" symbol="RefreshData"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="39" pc="268435729" symbol="RefreshData"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="42" pc="268435756" symbol="makeHttpCall"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="43" pc="268435760" symbol="makeHttpCall"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="45" pc="268435794" symbol="makeHttpCall"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="47" pc="268435815" symbol="makeHttpCall"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/PlayerData.mc" lineNum="53" pc="268435873" symbol="makeHttpCall"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionView.mc" lineNum="5" pc="268435915" symbol="initialize"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionView.mc" lineNum="6" pc="268435919" symbol="initialize"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionView.mc" lineNum="10" pc="268435938" symbol="onLayout"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionView.mc" lineNum="11" pc="268435942" symbol="onLayout"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionView.mc" lineNum="17" pc="268435980" symbol="onShow"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionView.mc" lineNum="21" pc="268435985" symbol="onUpdate"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionView.mc" lineNum="23" pc="268435989" symbol="onUpdate"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionView.mc" lineNum="29" pc="268436010" symbol="onHide"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionMenuDelegate.mc" lineNum="6" pc="268436015" symbol="initialize"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionMenuDelegate.mc" lineNum="7" pc="268436019" symbol="initialize"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionMenuDelegate.mc" lineNum="10" pc="268436038" symbol="onMenuItem"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionMenuDelegate.mc" lineNum="11" pc="268436042" symbol="onMenuItem"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionMenuDelegate.mc" lineNum="12" pc="268436053" symbol="onMenuItem"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionMenuDelegate.mc" lineNum="13" pc="268436074" symbol="onMenuItem"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionMenuDelegate.mc" lineNum="15" pc="268436111" symbol="onMenuItem"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionMenuDelegate.mc" lineNum="16" pc="268436132" symbol="onMenuItem"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionMenuDelegate.mc" lineNum="18" pc="268436169" symbol="onMenuItem"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionMenuDelegate.mc" lineNum="20" pc="268436204" symbol="onMenuItem"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionMenuDelegate.mc" lineNum="22" pc="268436239" symbol="onMenuItem"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionDelegate.mc" lineNum="5" pc="268436264" symbol="initialize"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionDelegate.mc" lineNum="6" pc="268436268" symbol="initialize"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionDelegate.mc" lineNum="7" pc="268436286" symbol="initialize"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionApp.mc" lineNum="6" pc="268436371" symbol="initialize"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionApp.mc" lineNum="7" pc="268436375" symbol="initialize"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionApp.mc" lineNum="11" pc="268436394" symbol="onStart"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionApp.mc" lineNum="15" pc="268436399" symbol="onStop"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionApp.mc" lineNum="19" pc="268436404" symbol="getInitialView"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BattlefieldOneCompanionApp.mc" lineNum="20" pc="268436408" symbol="getInitialView"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BasicDetailsView.mc" lineNum="7" pc="268436476" symbol="initialize"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BasicDetailsView.mc" lineNum="8" pc="268436480" symbol="initialize"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BasicDetailsView.mc" lineNum="12" pc="268436499" symbol="onLayout"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BasicDetailsView.mc" lineNum="20" pc="268436504" symbol="onShow"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BasicDetailsView.mc" lineNum="24" pc="268436509" symbol="onUpdate"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BasicDetailsView.mc" lineNum="47" pc="268436514" symbol="onHide"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BasicDetailsView.mc" lineNum="50" pc="268436519" symbol="keyPressed"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BasicDetailsDelegate.mc" lineNum="5" pc="268436524" symbol="initialize"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BasicDetailsDelegate.mc" lineNum="6" pc="268436528" symbol="initialize"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BasicDetailsDelegate.mc" lineNum="7" pc="268436546" symbol="initialize"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BasicDetailsDelegate.mc" lineNum="10" pc="268436631" symbol="onKey"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BasicDetailsDelegate.mc" lineNum="14" pc="268436636" symbol="onBack"/>
+<entry filename="/Users/T-Rose/Documents/workspace/BattlefieldOneCompanion/source/BasicDetailsDelegate.mc" lineNum="15" pc="268436640" symbol="onBack"/>
+<entry filename="Rez" lineNum="18" pc="268436673" symbol="initialize"/>
+<entry filename="Rez" lineNum="19" pc="268436677" symbol="initialize"/>
+<entry filename="Rez" lineNum="20" pc="268436695" symbol="initialize"/>
+<entry filename="Rez" lineNum="21" pc="268436747" symbol="initialize"/>
+<entry filename="Rez" lineNum="22" pc="268436799" symbol="initialize"/>
+<entry filename="Rez" lineNum="23" pc="268436851" symbol="initialize"/>
+<entry filename="Rez" lineNum="24" pc="268436903" symbol="initialize"/>
+<entry filename="Rez" lineNum="40" pc="268436956" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="42" pc="268436968" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="43" pc="268437131" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="44" pc="268437156" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="45" pc="268437208" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="46" pc="268437324" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="49" pc="268437376" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="17" object="true" symbol="PlayGameView"/>
+<entry field="true" id="27" symbol="menu_Label_Vehicles"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="32" symbol="menu_Label_Games"/>
+<entry field="true" id="28" symbol="menu_label_Detailed"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="24" object="true" symbol="MainMenu"/>
+<entry id="16" object="true" symbol="BattlefieldOneCompanionApp"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="42" symbol="Basic"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="10" object="true" symbol="ClassData"/>
+<entry id="25" method="true" symbol="MainLayout"/>
+<entry id="19" method="true" symbol="keyPressed"/>
+<entry field="true" id="26" symbol="menu_label_Basic"/>
+<entry field="true" id="38" symbol="VehicleDatas"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="36" method="true" symbol="makeHttpCall"/>
+<entry field="true" id="31" symbol="menu_Label_Classes"/>
+<entry id="9" object="true" symbol="PlayerData"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="39" symbol="GameDatas"/>
+<entry field="true" id="29" symbol="AppName"/>
+<entry id="8389594" symbol="headers"/>
+<entry id="13" object="true" symbol="BattlefieldOneCompanionView"/>
+<entry id="11" object="true" symbol="VehicleData"/>
+<entry field="true" id="23" symbol="LauncherIcon"/>
+<entry id="46" symbol="Games"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry id="8388786" method="true" symbol="method"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="37" symbol="ClassDatas"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="35" method="true" symbol="RefreshData"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="34" method="true" symbol="GetData"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="22" symbol="id_monkey"/>
+<entry id="15" object="true" symbol="BattlefieldOneCompanionDelegate"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="43" symbol="Detailed"/>
+<entry id="44" symbol="Classes"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="18" object="true" symbol="BasicDetailsDelegate"/>
+<entry id="45" symbol="Vehicles"/>
+<entry id="14" object="true" symbol="BattlefieldOneCompanionMenuDelegate"/>
+<entry id="21" module="true" symbol="Layouts"/>
+<entry field="true" id="30" symbol="prompt"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389844" symbol="responseType"/>
+<entry id="33" method="true" symbol="onReceieve"/>
+<entry id="8389346" symbol="text"/>
+<entry id="12" object="true" symbol="GameData"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="20" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435559" name="responseCode" stackId="1" startPc="268435456"/>
+<entry endPc="268435559" name="data" stackId="2" startPc="268435456"/>
+<entry endPc="268435658" name="platform" stackId="2" startPc="268435563"/>
+<entry endPc="268435658" name="url" stackId="4" startPc="268435563"/>
+<entry endPc="268435658" name="username" stackId="3" startPc="268435563"/>
+<entry endPc="268435659" name="specType" stackId="1" startPc="268435559"/>
+<entry endPc="268435755" name="platform" stackId="2" startPc="268435663"/>
+<entry endPc="268435755" name="url" stackId="4" startPc="268435663"/>
+<entry endPc="268435755" name="username" stackId="3" startPc="268435663"/>
+<entry endPc="268435756" name="specType" stackId="1" startPc="268435659"/>
+<entry endPc="268435910" name="options" stackId="4" startPc="268435760"/>
+<entry endPc="268435910" name="headers" stackId="3" startPc="268435760"/>
+<entry endPc="268435910" name="param" stackId="2" startPc="268435760"/>
+<entry endPc="268435911" name="url" stackId="1" startPc="268435756"/>
+<entry endPc="268435980" name="dc" stackId="1" startPc="268435938"/>
+<entry endPc="268436010" name="dc" stackId="1" startPc="268435985"/>
+<entry endPc="268436264" name="item" stackId="1" startPc="268436038"/>
+<entry endPc="268436399" name="state" stackId="1" startPc="268436394"/>
+<entry endPc="268436404" name="state" stackId="1" startPc="268436399"/>
+<entry endPc="268436504" name="dc" stackId="1" startPc="268436499"/>
+<entry endPc="268436514" name="dc" stackId="1" startPc="268436509"/>
+<entry endPc="268436524" name="keyEvent" stackId="1" startPc="268436519"/>
+<entry endPc="268437403" name="rez_cmp_local_bitmap_FSBJP3AXVP_fontHeight" stackId="3" startPc="268436968"/>
+<entry endPc="268437403" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268436968"/>
+<entry endPc="268437403" name="rez_cmp_local_bitmap_FSBJP3AXVP" stackId="2" startPc="268436968"/>
+<entry endPc="268437404" name="dc" stackId="1" startPc="268436956"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="onReceieve" parent="PlayerData">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="GetData" parent="PlayerData">
+<param id="specType"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="RefreshData" parent="PlayerData">
+<param id="specType"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="makeHttpCall" parent="PlayerData">
+<param id="url"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BattlefieldOneCompanionView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="BattlefieldOneCompanionView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="BattlefieldOneCompanionView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="BattlefieldOneCompanionView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="BattlefieldOneCompanionView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BattlefieldOneCompanionMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="BattlefieldOneCompanionMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BattlefieldOneCompanionDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BattlefieldOneCompanionApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="BattlefieldOneCompanionApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="BattlefieldOneCompanionApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="BattlefieldOneCompanionApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PlayGameView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="PlayGameView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="PlayGameView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="PlayGameView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="PlayGameView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="keyPressed" parent="PlayGameView">
+<param id="keyEvent"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="BasicDetailsDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onKey" parent="BasicDetailsDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="BasicDetailsDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="270" parentId="globals" symbolId="ClassData" type="class"/>
+<dataEntry offset="317" parentId="globals" symbolId="PlayGameView" type="class"/>
+<dataEntry offset="404" parentId="globals" symbolId="BasicDetailsDelegate" type="class"/>
+<dataEntry offset="467" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="546" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="593" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="632" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="679" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="710" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="741" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="780" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="867" parentId="globals" symbolId="GameData" type="class"/>
+<dataEntry offset="914" parentId="globals" symbolId="BattlefieldOneCompanionApp" type="class"/>
+<dataEntry offset="985" parentId="globals" symbolId="PlayerData" type="class"/>
+<dataEntry offset="1088" parentId="globals" symbolId="BattlefieldOneCompanionDelegate" type="class"/>
+<dataEntry offset="1135" parentId="globals" symbolId="BattlefieldOneCompanionView" type="class"/>
+<dataEntry offset="1214" parentId="globals" symbolId="BattlefieldOneCompanionMenuDelegate" type="class"/>
+<dataEntry offset="1269" parentId="globals" symbolId="VehicleData" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

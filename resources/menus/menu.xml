@@ -1,0 +1,7 @@
+<menu id="MainMenu">
+    <menu-item id="Basic">@Strings.menu_label_Basic</menu-item>
+    <menu-item id="Detailed">@Strings.menu_label_Detailed</menu-item>
+    <menu-item id="Classes">@Strings.menu_Label_Classes</menu-item>
+    <menu-item id="Vehicles">@Strings.menu_Label_Vehicles</menu-item>
+    <menu-item id="Games">@Strings.menu_Label_Games</menu-item>
+</menu>

@@ -1,0 +1,11 @@
+<strings>
+    <string id="AppName">Battlefield One Companion</string>
+
+    <string id="prompt">Something went wrong!!</string>
+
+    <string id="menu_label_Basic">Basic Stats</string>
+    <string id="menu_label_Detailed">Detailed Stats</string>
+    <string id="menu_Label_Classes">Classes</string>
+    <string id="menu_Label_Vehicles">Vehicles</string>
+    <string id="menu_Label_Games">Game Modes</string>
+</strings>
