@@ -10,7 +10,8 @@ class BattlefieldOneCompanionMenuDelegate extends Ui.MenuInputDelegate {
     function onMenuItem(item) {
         if (item == :Basic) {
             Sys.println("Basic");
-            PlayerData.GetData("BasicStats");
+            var data = new PlayerData();
+            data.GetData("BasicStats");
         } else if (item == :Detailed) {
             Sys.println("Detailed");
             PlayerData.GetData("DetailedStats");
