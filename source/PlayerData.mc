@@ -71,16 +71,18 @@ class PlayerData extends Toybox.Lang.Object {
     		var dataMap = arrayToMap("=>", dataArray);
     		var keyArray = dataMap.keys();
     		for(var i = 0; i < keyArray.size(); i += 1) {
-    			System.println(keyArray[i] + " => " + dataMap.get(keyArray[i]));
+    			//System.println(keyArray[i] + " => " + dataMap.get(keyArray[i]));
     		}
+    		basicToStructure(dataMap);
     	} else {
     		var dataArray = tokenizeStringDetailed(",", dataString);
     		var dataMap = arrayToMap("=>", dataArray);
     		var keyArray = dataMap.keys();
     		for(var i = 0; i < keyArray.size(); i += 1) {
-    			System.println(keyArray[i] + " => " + dataMap.get(keyArray[i]));
+    			//System.println(keyArray[i] + " => " + dataMap.get(keyArray[i]));
     		}
     	}
+    	printAllData();
     }
     
     function arrayToMap(delimiter, array) {
@@ -158,10 +160,64 @@ class PlayerData extends Toybox.Lang.Object {
     	return stringArray;
     }
     
+    function basicToStructure(dataMap) {
+    	losses = dataMap.get("losses");
+    	wins = dataMap.get("wins");
+    	spm = dataMap.get("spm");
+    	skill = dataMap.get("skill");
+    	deaths = dataMap.get("deaths");
+    	kills = dataMap.get("kills");
+    	kpm = dataMap.get("kpm");
+    	timePlayed = dataMap.get("timePlayed");
+    	
+    	var rankString = dataMap.get("rank");
+    	var indexStart = rankString.find("number=>") + 8;
+    	var indexEnd = rankString.find(",");
+    	rank = rankString.substring(indexStart, indexEnd);
+    	
+    	var expString = dataMap.get("rankProgress");
+    	indexStart = expString.find("current=>") + 9;
+    	indexEnd = expString.find(".");
+    	currentRankExperience = expString.substring(indexStart, indexEnd);
+    	expString = expString.substring(indexEnd + 2, expString.length());
+    	indexStart = expString.find("total=>") + 7;
+    	indexEnd = expString.find(".");
+    	totalRankExperience = expString.substring(indexStart, indexEnd);
+    }
+    
+    function printAllData() {
+    	System.println("rank: " + rank);
+    	System.println("currentRankExperience: " + currentRankExperience);
+    	System.println("totalRankExperience: " + totalRankExperience);
+    	System.println("losses: " + losses);
+    	System.println("wins: " + wins);
+    	System.println("spm: " + spm);
+    	System.println("skill: " + skill);
+    	System.println("deaths: " + deaths);
+    	System.println("kills: " + kills);
+    	System.println("kpm: " + kpm);
+    	System.println("timePlayed: " + timePlayed);
+    }
+    
 	var dataType;
     var ClassDatas;
     var VehicleDatas;
     var GameDatas;
+    
+    // Data to be processed before displaying
+    var rank;
+    var currentRankExperience;
+    var totalRankExperience;
+    
+    // Data to display
+    var losses;
+    var wins;
+    var spm;
+    var skill;
+    var deaths;
+    var kills;
+    var kpm;
+    var timePlayed;
 }
 
 class ClassData {
