@@ -26,6 +26,7 @@ class PlayerData extends Toybox.Lang.Object {
 
    function GetData(specType) {
         // TODO: make API call
+        dataType = specType;
         var platform = "3";
         var username = "tylerjosephrose";
         var url = "https://battlefieldtracker.com/bf1/api/Stats/" + specType + "?platform=" + platform + "&displayName=" + username;
@@ -49,7 +50,7 @@ class PlayerData extends Toybox.Lang.Object {
         var options = {
             :method => Comm.HTTP_REQUEST_METHOD_GET,
             :headers => headers,
-            :responseType => Comm.HTTP_RESPONSE_CONTENT_TYPE_URL_ENCODED
+            :responseType => Comm.HTTP_RESPONSE_CONTENT_TYPE_JSON
         };
         
         var responseCallback = method(:onReceive);
@@ -62,11 +63,23 @@ class PlayerData extends Toybox.Lang.Object {
     	var dataString = data.toString();
     	// remove outside brackets
     	dataString = dataString.substring(1, dataString.length() - 1);
-    	var dataArray = tokenizeString(",", dataString);
-    	var dataMap = arrayToMap("=>", dataArray);
-    	var keyArray = dataMap.keys();
-    	for(var i = 0; i < keyArray.size(); i += 1) {
-    		System.println(keyArray[i] + " => " + dataMap.get(keyArray[i]));
+    	// remove everything before "result=>"
+    	var index = dataString.find("result=>");
+    	dataString = dataString.substring(index + 9, dataString.length() - 1);
+    	if(dataType.equals("BasicStats")) {
+    		var dataArray = tokenizeStringBasic(",", dataString);
+    		var dataMap = arrayToMap("=>", dataArray);
+    		var keyArray = dataMap.keys();
+    		for(var i = 0; i < keyArray.size(); i += 1) {
+    			System.println(keyArray[i] + " => " + dataMap.get(keyArray[i]));
+    		}
+    	} else {
+    		var dataArray = tokenizeStringDetailed(",", dataString);
+    		var dataMap = arrayToMap("=>", dataArray);
+    		var keyArray = dataMap.keys();
+    		for(var i = 0; i < keyArray.size(); i += 1) {
+    			System.println(keyArray[i] + " => " + dataMap.get(keyArray[i]));
+    		}
     	}
     }
     
@@ -81,17 +94,25 @@ class PlayerData extends Toybox.Lang.Object {
     	return stringMap;
     }
     
-    function tokenizeString(delimiter, string) {
+    function tokenizeStringBasic(delimiter, string) {
     	var stringArray = new[0];
     	while(string.length() > 0) {
     		var tempString;
     		var index = string.find(delimiter);
     		if (index != null) {
     			tempString = string.substring(0, index);
-    			//System.println(tempString);
-    			stringArray.add(tempString);
-    			string = string.substring(index + 2, string.length());
-    			//System.println(string);
+    			var bracket = tempString.find("{");
+    			if (bracket == null) {
+    				//System.println(tempString);
+    				stringArray.add(tempString);
+    				string = string.substring(index + 2, string.length());
+    				//System.println(string);
+    			} else {
+    				var closeIndex = string.find("}");
+    				tempString = string.substring(0, closeIndex + 1);
+    				stringArray.add(tempString);
+    				string = string.substring(closeIndex + 3, string.length());
+    			}
     		} else {
     			stringArray.add(string);
     			string = "";
@@ -101,7 +122,43 @@ class PlayerData extends Toybox.Lang.Object {
     	return stringArray;
     }
     
-
+    function tokenizeStringDetailed(delimiter, string) {
+    	var stringArray = new[0];
+    	while(string.length() > 0) {
+    		var tempString;
+    		var index = string.find(delimiter);
+    		if (index != null) {
+    			tempString = string.substring(0, index);
+    			var bracket = tempString.find("[");
+    			if (bracket == null) {
+    				var bracket2 = tempString.find("{");
+    				if (bracket2 == null) {
+    					//System.println(tempString);
+    					stringArray.add(tempString);
+    					string = string.substring(index + 2, string.length());
+    					//System.println(string);
+    				} else {
+    					var closeIndex = string.find("}");
+    					tempString = string.substring(0, closeIndex + 1);
+    					stringArray.add(tempString);
+    					string = string.substring(closeIndex + 3, string.length());
+    				}
+    			} else {
+    				var closeIndex = string.find("]");
+    				tempString = string.substring(0, closeIndex + 1);
+    				stringArray.add(tempString);
+    				string = string.substring(closeIndex + 3, string.length());
+    			}
+    		} else {
+    			stringArray.add(string);
+    			string = "";
+    		}
+    		//System.println(stringArray.size());
+    	}
+    	return stringArray;
+    }
+    
+	var dataType;
     var ClassDatas;
     var VehicleDatas;
     var GameDatas;
