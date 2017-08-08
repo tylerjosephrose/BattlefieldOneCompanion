@@ -25,21 +25,11 @@ class PlayerData extends Toybox.Lang.Object {
    }
 
    function GetData(specType) {
-        // TODO: make API call
         dataType = specType;
         var platform = "3";
         var username = "tylerjosephrose";
         var url = "https://battlefieldtracker.com/bf1/api/Stats/" + specType + "?platform=" + platform + "&displayName=" + username;
         makeHttpCall(url);
-    }
-
-    function RefreshData(specType) {
-        // TODO: make API call
-        var platform = 3;
-        var username = tylerjosephrose;
-        var url = "https://battlefieldtracker.com/bf1/api/Stats/" + specType + "?platform=" + platform + "&displayName=" + username;
-        response = makeHttpCall(url);
-        System.println(response);
     }
 
     function makeHttpCall(url) {
@@ -81,6 +71,7 @@ class PlayerData extends Toybox.Lang.Object {
     		for(var i = 0; i < keyArray.size(); i += 1) {
     			//System.println(keyArray[i] + " => " + dataMap.get(keyArray[i]));
     		}
+    		detailedToStructure(dataMap);
     	}
     	printAllData();
     }
@@ -160,6 +151,14 @@ class PlayerData extends Toybox.Lang.Object {
     	return stringArray;
     }
     
+    function detailedToStructure(dataMap) {
+    	if (classDatas == null) { classDatas = new ClassData(); }
+    	if (vehicleDatas == null) { vehicleDatas = new VehicleDatas(); }
+    	if (gameDatas == null) { gameDatas = new GameDatas(); }
+    	
+    	
+    }
+    
     function basicToStructure(dataMap) {
     	losses = dataMap.get("losses");
     	wins = dataMap.get("wins");
@@ -200,9 +199,9 @@ class PlayerData extends Toybox.Lang.Object {
     }
     
 	var dataType;
-    var ClassDatas;
-    var VehicleDatas;
-    var GameDatas;
+    var classDatas;
+    var vehicleDatas;
+    var gameDatas;
     
     // Data to be processed before displaying
     var rank;
