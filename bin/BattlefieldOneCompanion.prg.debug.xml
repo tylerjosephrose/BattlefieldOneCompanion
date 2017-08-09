@@ -513,8 +513,8 @@
 <entry endPc="268441455" name="dc" stackId="1" startPc="268441450"/>
 <entry endPc="268441465" name="dc" stackId="1" startPc="268441460"/>
 <entry endPc="268441475" name="keyEvent" stackId="1" startPc="268441470"/>
-<entry endPc="268442354" name="rez_cmp_local_bitmap_JBHG879YOS_fontHeight" stackId="3" startPc="268441919"/>
-<entry endPc="268442354" name="rez_cmp_local_bitmap_JBHG879YOS" stackId="2" startPc="268441919"/>
+<entry endPc="268442354" name="rez_cmp_local_bitmap_ZF1QAFYLZ1_fontHeight" stackId="3" startPc="268441919"/>
+<entry endPc="268442354" name="rez_cmp_local_bitmap_ZF1QAFYLZ1" stackId="2" startPc="268441919"/>
 <entry endPc="268442354" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268441919"/>
 <entry endPc="268442355" name="dc" stackId="1" startPc="268441907"/>
 </localVars>
