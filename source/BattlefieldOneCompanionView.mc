@@ -9,6 +9,12 @@ class BattlefieldOneCompanionView extends Ui.View {
     // Load your resources here
     function onLayout(dc) {
         setLayout(Rez.Layouts.MainLayout(dc));
+        if (playerData == null) {
+        	playerData = new PlayerData();
+        }
+        
+        playerData.GetData("BasicStats");
+        playerData.GetData("DetailedStats");
     }
 
     // Called when this View is brought to the foreground. Restore

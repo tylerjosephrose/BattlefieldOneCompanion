@@ -4,27 +4,48 @@ This file is to store all the data as well as to make and refresh the API calls
 
 using Toybox.Communications as Comm;
 
+var playerData;
+
 class PlayerData extends Toybox.Lang.Object {
 
 	function initialize() {
 		Toybox.Lang.Object.initialize();
 	}
+	
+	var basicData;
+	var detailedData;
 
-    function onReceive(responseCode, data) {
-       if (responseCode == 200){
-           System.println("Request Successful");                  // print success
-           System.println("Response: " + responseCode);
-           //System.println(data);
-           parseResponse(data);
-       }
-       else {
-           System.println("Response: " + responseCode);            // print response code
-           System.println(data);
-       }
-
-   }
-
-   function GetData(specType) {
+    function onReceiveBasic(responseCode, data) {
+    	System.println("Receive :");
+        if (responseCode == 200){
+        	System.println("Request Successful");                  // print success
+            System.println("Response: " + responseCode);
+            System.println(data);
+            //parseResponse(data);
+            basicData = data;
+        }
+        else {
+            System.println("Response: " + responseCode);            // print response code
+            System.println(data);
+        }
+    }
+    
+    function onReceiveDetailed(responseCode, data) {
+    	System.println("Receive :");
+        if (responseCode == 200){
+        	System.println("Request Successful");                  // print success
+            System.println("Response: " + responseCode);
+            System.println(data);
+            //parseResponse(data);
+            detailedData = data;
+        }
+        else {
+            System.println("Response: " + responseCode);            // print response code
+            System.println(data);
+        }
+    }
+	
+    function GetData(specType) {
         dataType = specType;
         var platform = "3";
         var username = "tylerjosephrose";
@@ -43,7 +64,13 @@ class PlayerData extends Toybox.Lang.Object {
             :responseType => Comm.HTTP_RESPONSE_CONTENT_TYPE_JSON
         };
         
-        var responseCallback = method(:onReceive);
+        var responseCallback;
+        
+        if(dataType.equals("BasicStats")) {
+        	responseCallback = method(:onReceiveBasic);
+        } else {
+        	responseCallback = method(:onReceiveDetailed);
+        }
 
         Comm.makeWebRequest(url, null, options, responseCallback);
     }
@@ -76,12 +103,53 @@ class PlayerData extends Toybox.Lang.Object {
     	//printAllData();
     }
     
+    function parseAllData() {
+    	System.println(basicData);
+    	System.println(detailedData);
+    	var basicDataString = basicData.toString();
+    	var detailedDataString = detailedData.toString();
+    	// remove outside brackets
+    	basicDataString = basicDataString.substring(1, basicDataString.length() - 1);
+    	detailedDataString = detailedDataString.substring(1, detailedDataString.length() - 1);
+    	// remove everything before "result=>"
+    	var basicIndex = basicDataString.find("result=>");
+    	var detailedIndex = detailedDataString.find("result=>");
+    	basicDataString = basicDataString.substring(basicIndex + 9, basicDataString.length() - 1);
+    	detailedDataString = detailedDataString.substring(detailedIndex + 9, detailedDataString.length() - 1);
+    	
+    	var basicDataArray = tokenizeStringBasic(",", basicDataString);
+    	var basicDataMap = arrayToMap("=>", basicDataArray);
+    	var keyArray1 = basicDataMap.keys();
+    	/*for(var i = 0; i < keyArray.size(); i += 1) {
+    		//System.println(keyArray[i] + " => " + dataMap.get(keyArray[i]));
+    	}*/
+    	basicToStructure(basicDataMap);
+    	
+    	var detailedDataArray = tokenizeStringDetailed(",", detailedDataString);
+    	var detailedDataMap = arrayToMap("=>", detailedDataArray);
+    	var keyArray2 = detailedDataMap.keys();
+    	/*for(var i = 0; i < keyArray.size(); i += 1) {
+    		System.println(keyArray[i] + " => " + dataMap.get(keyArray[i]));
+    	}*/
+    	detailedToStructure(detailedDataMap);
+    	printAllData();
+    }
+    
     function arrayToMap(delimiter, array) {
     	var stringMap = {};
     	for(var i = 0; i < array.size(); i += 1) {
     		var index = array[i].find(delimiter);
     		var key = array[i].substring(0, index);
     		var value = array[i].substring(index + delimiter.length(), array[i].length());
+    		var key1 = key.toString();
+    		if (key.equals("name")) {
+    			System.println("true1");
+    		} else if (key1.equals("name")) {
+    			System.println("true2");
+    		}
+    		
+    		System.println(key1);
+    		System.println(value);
     		stringMap.put(key, value);
     	}
     	return stringMap;
@@ -167,6 +235,7 @@ class PlayerData extends Toybox.Lang.Object {
     	var arrayMap = new [0];
     	for(var i = 0; i < stringArray.size(); i += 1) {
     		var gameArray = tokenizeStringBasic(",", stringArray[i]);
+    		System.println(gameArray);
     		arrayMap.add(arrayToMap("=>", gameArray));
     	}
     	return arrayMap;

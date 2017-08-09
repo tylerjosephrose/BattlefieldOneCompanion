@@ -10,15 +10,12 @@ class BattlefieldOneCompanionMenuDelegate extends Ui.MenuInputDelegate {
     }
 
     function onMenuItem(item) {
-    	if (data == null) {
-    		data = new PlayerData();
-    	}
         if (item == :Basic) {
             Sys.println("Basic");
-            data.GetData("BasicStats");
+            playerData.parseAllData();
+            Ui.pushView(new BasicView(), new BasicDelegate(), Ui.SLIDE_UP);
         } else if (item == :Detailed) {
             Sys.println("Detailed");
-            data.GetData("DetailedStats");
         } else if (item == :Classes) {
             Sys.println("Classes");
         } else if (item == :Vehicles) {

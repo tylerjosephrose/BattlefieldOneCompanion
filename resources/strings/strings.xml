@@ -2,6 +2,8 @@
     <string id="AppName">Battlefield One Companion</string>
 
     <string id="prompt">Something went wrong!!</string>
+    
+    <string id="username">tylerjosephrose</string>
 
     <string id="menu_label_Basic">Basic Stats</string>
     <string id="menu_label_Detailed">Detailed Stats</string>
