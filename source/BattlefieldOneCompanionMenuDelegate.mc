@@ -12,7 +12,9 @@ class BattlefieldOneCompanionMenuDelegate extends Ui.MenuInputDelegate {
     function onMenuItem(item) {
         if (item == :Basic) {
             Sys.println("Basic");
-            playerData.parseAllData();
+            //playerData.parseAllData();
+            playerData.parseType("BasicStats");
+            playerData.parseType("DetailedStats");
             Ui.pushView(new BasicView(), new BasicDelegate(), Ui.SLIDE_UP);
         } else if (item == :Detailed) {
             Sys.println("Detailed");

@@ -103,6 +103,39 @@ class PlayerData extends Toybox.Lang.Object {
     	//printAllData();
     }
     
+    function parseType(type) {
+    	var data;
+    	if (type.equals("BasicStats") {
+    		data = basicData;
+    	} else {
+    		data = detailedData;
+    	}
+    	var dataString = data.toString();
+    	// remove outside brackets
+    	dataString = dataString.substring(1, dataString.length() - 1);
+    	// remove everything before "result=>"
+    	var index = dataString.find("result=>");
+    	dataString = dataString.substring(index + 9, dataString.length() - 1);
+    	if(dataType.equals("BasicStats")) {
+    		var dataArray = tokenizeStringBasic(",", dataString);
+    		var dataMap = arrayToMap("=>", dataArray);
+    		var keyArray = dataMap.keys();
+    		/*for(var i = 0; i < keyArray.size(); i += 1) {
+    			//System.println(keyArray[i] + " => " + dataMap.get(keyArray[i]));
+    		}*/
+    		basicToStructure(dataMap);
+    	} else {
+    		var dataArray = tokenizeStringDetailed(",", dataString);
+    		var dataMap = arrayToMap("=>", dataArray);
+    		var keyArray = dataMap.keys();
+    		/*for(var i = 0; i < keyArray.size(); i += 1) {
+    			System.println(keyArray[i] + " => " + dataMap.get(keyArray[i]));
+    		}*/
+    		detailedToStructure(dataMap);
+    	}
+    	//printAllData();
+    }
+    
     function parseAllData() {
     	System.println(basicData);
     	System.println(detailedData);
@@ -118,10 +151,13 @@ class PlayerData extends Toybox.Lang.Object {
     	detailedDataString = detailedDataString.substring(detailedIndex + 9, detailedDataString.length() - 1);
     	
     	var basicDataArray = tokenizeStringBasic(",", basicDataString);
+    	for(var i = 0; i < basicDataArray.size(); i += 1) {
+    		System.println(basicDataArray[i]);
+    	}
     	var basicDataMap = arrayToMap("=>", basicDataArray);
     	var keyArray1 = basicDataMap.keys();
-    	/*for(var i = 0; i < keyArray.size(); i += 1) {
-    		//System.println(keyArray[i] + " => " + dataMap.get(keyArray[i]));
+    	/*for(var i = 0; i < keyArray1.size(); i += 1) {
+    		System.println(keyArray1[i] + " => " + basicDataMap.get(keyArray1[i]));
     	}*/
     	basicToStructure(basicDataMap);
     	
@@ -132,31 +168,27 @@ class PlayerData extends Toybox.Lang.Object {
     		System.println(keyArray[i] + " => " + dataMap.get(keyArray[i]));
     	}*/
     	detailedToStructure(detailedDataMap);
+    	basicData = null;
+    	detailedData = null;
     	printAllData();
     }
     
     function arrayToMap(delimiter, array) {
     	var stringMap = {};
     	for(var i = 0; i < array.size(); i += 1) {
+    		if (!(array[i] instanceof Toybox.Lang.String)) {
+    			continue;
+    		}
     		var index = array[i].find(delimiter);
     		var key = array[i].substring(0, index);
     		var value = array[i].substring(index + delimiter.length(), array[i].length());
-    		var key1 = key.toString();
-    		if (key.equals("name")) {
-    			System.println("true1");
-    		} else if (key1.equals("name")) {
-    			System.println("true2");
-    		}
-    		
-    		System.println(key1);
-    		System.println(value);
     		stringMap.put(key, value);
     	}
     	return stringMap;
     }
     
     function tokenizeStringBasic(delimiter, string) {
-    	var stringArray = new[0];
+    	var stringArray = [0];
     	while(string.length() > 0) {
     		var tempString;
     		var index = string.find(delimiter);
@@ -178,13 +210,13 @@ class PlayerData extends Toybox.Lang.Object {
     			stringArray.add(string);
     			string = "";
     		}
-    		//System.println(stringArray.size());
+    		System.println(string);
     	}
     	return stringArray;
     }
     
     function tokenizeStringDetailed(delimiter, string) {
-    	var stringArray = new[0];
+    	var stringArray = [0];
     	while(string.length() > 0) {
     		var tempString;
     		var index = string.find(delimiter);
@@ -220,7 +252,7 @@ class PlayerData extends Toybox.Lang.Object {
     }
     
     function detailedSpecStringToMap(newLineString, wholeString) {
-    	var stringArray = new[0];
+    	var stringArray = [0];
     	while(wholeString.length() > 0) {
     		var index = wholeString.find(newLineString);
     		if (index != null) {
@@ -232,7 +264,7 @@ class PlayerData extends Toybox.Lang.Object {
     		}
     	}
     	
-    	var arrayMap = new [0];
+    	var arrayMap = [0];
     	for(var i = 0; i < stringArray.size(); i += 1) {
     		var gameArray = tokenizeStringBasic(",", stringArray[i]);
     		System.println(gameArray);
