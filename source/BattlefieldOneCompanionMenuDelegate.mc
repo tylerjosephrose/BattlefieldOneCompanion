@@ -3,7 +3,7 @@ using Toybox.System as Sys;
 
 class BattlefieldOneCompanionMenuDelegate extends Ui.MenuInputDelegate {
 
-	var data;
+    var data;
 
     function initialize() {
         MenuInputDelegate.initialize();
@@ -13,7 +13,7 @@ class BattlefieldOneCompanionMenuDelegate extends Ui.MenuInputDelegate {
         if (item == :Basic) {
             Sys.println("Basic");
             //playerData.parseAllData();
-            playerData.parseType("BasicStats");
+            //playerData.parseType("BasicStats");
             playerData.parseType("DetailedStats");
             Ui.pushView(new BasicView(), new BasicDelegate(), Ui.SLIDE_UP);
         } else if (item == :Detailed) {

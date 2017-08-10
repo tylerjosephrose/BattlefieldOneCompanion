@@ -1,329 +1,331 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="11" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="12" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="18" pc="268435491" symbol="onReceiveBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="19" pc="268435495" symbol="onReceiveBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="20" pc="268435518" symbol="onReceiveBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="21" pc="268435529" symbol="onReceiveBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="22" pc="268435552" symbol="onReceiveBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="23" pc="268435578" symbol="onReceiveBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="25" pc="268435598" symbol="onReceiveBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="28" pc="268435611" symbol="onReceiveBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="29" pc="268435637" symbol="onReceiveBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="33" pc="268435658" symbol="onReceiveDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="34" pc="268435662" symbol="onReceiveDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="35" pc="268435685" symbol="onReceiveDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="36" pc="268435696" symbol="onReceiveDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="37" pc="268435719" symbol="onReceiveDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="38" pc="268435745" symbol="onReceiveDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="40" pc="268435765" symbol="onReceiveDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="43" pc="268435778" symbol="onReceiveDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="44" pc="268435804" symbol="onReceiveDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="48" pc="268435825" symbol="GetData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="49" pc="268435829" symbol="GetData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="50" pc="268435839" symbol="GetData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="51" pc="268435846" symbol="GetData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="52" pc="268435853" symbol="GetData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="53" pc="268435881" symbol="GetData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="56" pc="268435896" symbol="makeHttpCall"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="57" pc="268435900" symbol="makeHttpCall"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="59" pc="268435934" symbol="makeHttpCall"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="61" pc="268435955" symbol="makeHttpCall"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="67" pc="268436013" symbol="makeHttpCall"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="69" pc="268436013" symbol="makeHttpCall"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="70" pc="268436038" symbol="makeHttpCall"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="72" pc="268436059" symbol="makeHttpCall"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="75" pc="268436077" symbol="makeHttpCall"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="79" pc="268436101" symbol="parseResponse"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="80" pc="268436105" symbol="parseResponse"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="82" pc="268436118" symbol="parseResponse"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="84" pc="268436153" symbol="parseResponse"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="85" pc="268436171" symbol="parseResponse"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="86" pc="268436209" symbol="parseResponse"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="87" pc="268436234" symbol="parseResponse"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="88" pc="268436254" symbol="parseResponse"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="89" pc="268436274" symbol="parseResponse"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="93" pc="268436287" symbol="parseResponse"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="95" pc="268436304" symbol="parseResponse"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="96" pc="268436324" symbol="parseResponse"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="97" pc="268436344" symbol="parseResponse"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="101" pc="268436357" symbol="parseResponse"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="106" pc="268436372" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="107" pc="268436376" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="108" pc="268436402" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="109" pc="268436428" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="110" pc="268436447" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="112" pc="268436466" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="113" pc="268436501" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="115" pc="268436536" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="116" pc="268436554" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="117" pc="268436572" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="118" pc="268436610" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="120" pc="268436648" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="121" pc="268436668" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="122" pc="268436692" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="124" pc="268436728" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="125" pc="268436748" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="129" pc="268436761" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="131" pc="268436775" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="132" pc="268436795" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="133" pc="268436815" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="137" pc="268436828" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="138" pc="268436842" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="139" pc="268436851" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="140" pc="268436860" symbol="parseAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="143" pc="268436873" symbol="arrayToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="144" pc="268436877" symbol="arrayToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="145" pc="268436885" symbol="arrayToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="146" pc="268436909" symbol="arrayToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="147" pc="268436939" symbol="arrayToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="149" pc="268436945" symbol="arrayToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="150" pc="268436963" symbol="arrayToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="151" pc="268436986" symbol="arrayToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="152" pc="268437030" symbol="arrayToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="154" pc="268437059" symbol="arrayToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="157" pc="268437063" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="158" pc="268437067" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="159" pc="268437088" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="160" pc="268437108" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="161" pc="268437108" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="162" pc="268437123" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="163" pc="268437130" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="164" pc="268437150" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="165" pc="268437168" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="167" pc="268437175" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="168" pc="268437189" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="171" pc="268437224" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="172" pc="268437242" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="173" pc="268437268" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="174" pc="268437282" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="177" pc="268437317" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="178" pc="268437331" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="180" pc="268437338" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="182" pc="268437361" symbol="tokenizeStringBasic"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="185" pc="268437365" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="186" pc="268437369" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="187" pc="268437390" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="188" pc="268437410" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="189" pc="268437410" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="190" pc="268437425" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="191" pc="268437432" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="192" pc="268437452" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="193" pc="268437470" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="194" pc="268437477" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="195" pc="268437495" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="197" pc="268437502" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="198" pc="268437516" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="201" pc="268437551" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="202" pc="268437569" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="203" pc="268437595" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="204" pc="268437609" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="207" pc="268437644" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="208" pc="268437662" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="209" pc="268437688" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="210" pc="268437702" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="213" pc="268437737" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="214" pc="268437751" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="218" pc="268437761" symbol="tokenizeStringDetailed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="221" pc="268437765" symbol="detailedSpecStringToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="222" pc="268437769" symbol="detailedSpecStringToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="223" pc="268437790" symbol="detailedSpecStringToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="224" pc="268437810" symbol="detailedSpecStringToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="225" pc="268437825" symbol="detailedSpecStringToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="226" pc="268437832" symbol="detailedSpecStringToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="227" pc="268437868" symbol="detailedSpecStringToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="229" pc="268437903" symbol="detailedSpecStringToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="230" pc="268437948" symbol="detailedSpecStringToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="234" pc="268437958" symbol="detailedSpecStringToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="235" pc="268437979" symbol="detailedSpecStringToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="236" pc="268438003" symbol="detailedSpecStringToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="237" pc="268438026" symbol="detailedSpecStringToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="238" pc="268438046" symbol="detailedSpecStringToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="240" pc="268438089" symbol="detailedSpecStringToMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="243" pc="268438093" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="244" pc="268438097" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="245" pc="268438111" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="246" pc="268438125" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="248" pc="268438139" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="249" pc="268438163" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="250" pc="268438187" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="251" pc="268438211" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="252" pc="268438235" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="253" pc="268438259" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="254" pc="268438283" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="255" pc="268438307" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="256" pc="268438331" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="257" pc="268438355" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="258" pc="268438379" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="259" pc="268438403" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="260" pc="268438427" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="261" pc="268438451" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="262" pc="268438475" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="264" pc="268438499" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="265" pc="268438527" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="266" pc="268438555" symbol="detailedToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="269" pc="268438584" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="270" pc="268438588" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="271" pc="268438612" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="272" pc="268438636" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="273" pc="268438660" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="274" pc="268438684" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="275" pc="268438708" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="276" pc="268438732" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="277" pc="268438756" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="279" pc="268438780" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="280" pc="268438798" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="281" pc="268438822" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="282" pc="268438840" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="284" pc="268438863" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="285" pc="268438881" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="286" pc="268438905" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="287" pc="268438923" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="288" pc="268438946" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="289" pc="268438978" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="290" pc="268439002" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="291" pc="268439020" symbol="basicToStructure"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="294" pc="268439044" symbol="processGameData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="296" pc="268439048" symbol="processGameData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="297" pc="268439083" symbol="processGameData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="301" pc="268439103" symbol="processGameData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="302" pc="268439127" symbol="processGameData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="303" pc="268439148" symbol="processGameData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="304" pc="268439168" symbol="processGameData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="308" pc="268439207" symbol="processClassData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="310" pc="268439211" symbol="processClassData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="311" pc="268439246" symbol="processClassData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="313" pc="268439266" symbol="processClassData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="314" pc="268439290" symbol="processClassData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="315" pc="268439311" symbol="processClassData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="316" pc="268439331" symbol="processClassData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="320" pc="268439370" symbol="processVehicleData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="322" pc="268439374" symbol="processVehicleData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="323" pc="268439409" symbol="processVehicleData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="325" pc="268439429" symbol="processVehicleData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="326" pc="268439453" symbol="processVehicleData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="327" pc="268439474" symbol="processVehicleData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="328" pc="268439494" symbol="processVehicleData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="332" pc="268439533" symbol="printMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="333" pc="268439537" symbol="printMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="334" pc="268439550" symbol="printMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="335" pc="268439574" symbol="printMap"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="339" pc="268439634" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="340" pc="268439638" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="341" pc="268439670" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="342" pc="268439702" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="343" pc="268439734" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="344" pc="268439766" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="345" pc="268439798" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="346" pc="268439830" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="347" pc="268439862" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="348" pc="268439894" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="349" pc="268439926" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="350" pc="268439958" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="352" pc="268439990" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="353" pc="268440022" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="354" pc="268440054" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="355" pc="268440086" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="356" pc="268440118" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="357" pc="268440150" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="358" pc="268440182" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="359" pc="268440214" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="360" pc="268440246" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="361" pc="268440278" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="362" pc="268440310" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="363" pc="268440342" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="364" pc="268440374" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="365" pc="268440406" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="366" pc="268440438" symbol="printAllData"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="5" pc="268440471" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="6" pc="268440475" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="10" pc="268440494" symbol="onLayout"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="11" pc="268440498" symbol="onLayout"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="12" pc="268440535" symbol="onLayout"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="13" pc="268440548" symbol="onLayout"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="16" pc="268440581" symbol="onLayout"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="17" pc="268440604" symbol="onLayout"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="23" pc="268440628" symbol="onShow"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="27" pc="268440633" symbol="onUpdate"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="29" pc="268440637" symbol="onUpdate"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="35" pc="268440658" symbol="onHide"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="8" pc="268440663" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="9" pc="268440667" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="12" pc="268440686" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="13" pc="268440690" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="14" pc="268440701" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="16" pc="268440722" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="17" pc="268440754" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="18" pc="268440786" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="20" pc="268440872" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="22" pc="268440907" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="24" pc="268440942" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="26" pc="268440977" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionDelegate.mc" lineNum="5" pc="268441002" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionDelegate.mc" lineNum="6" pc="268441006" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionDelegate.mc" lineNum="7" pc="268441024" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionApp.mc" lineNum="6" pc="268441109" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionApp.mc" lineNum="7" pc="268441113" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionApp.mc" lineNum="11" pc="268441132" symbol="onStart"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionApp.mc" lineNum="15" pc="268441137" symbol="onStop"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionApp.mc" lineNum="19" pc="268441142" symbol="getInitialView"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionApp.mc" lineNum="20" pc="268441146" symbol="getInitialView"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="5" pc="268441214" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="6" pc="268441218" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="10" pc="268441237" symbol="onLayout"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="11" pc="268441241" symbol="onLayout"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="17" pc="268441279" symbol="onShow"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="21" pc="268441284" symbol="onUpdate"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="22" pc="268441288" symbol="onUpdate"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="23" pc="268441328" symbol="onUpdate"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="36" pc="268441404" symbol="onHide"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="43" pc="268441409" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="44" pc="268441413" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="45" pc="268441431" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicDetailsView.mc" lineNum="7" pc="268441516" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicDetailsView.mc" lineNum="8" pc="268441520" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicDetailsView.mc" lineNum="12" pc="268441539" symbol="onLayout"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicDetailsView.mc" lineNum="20" pc="268441544" symbol="onShow"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicDetailsView.mc" lineNum="24" pc="268441549" symbol="onUpdate"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicDetailsView.mc" lineNum="47" pc="268441554" symbol="onHide"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicDetailsView.mc" lineNum="50" pc="268441559" symbol="keyPressed"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicDetailsDelegate.mc" lineNum="5" pc="268441564" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicDetailsDelegate.mc" lineNum="6" pc="268441568" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicDetailsDelegate.mc" lineNum="7" pc="268441586" symbol="initialize"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicDetailsDelegate.mc" lineNum="10" pc="268441671" symbol="onKey"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicDetailsDelegate.mc" lineNum="14" pc="268441676" symbol="onBack"/>
-<entry filename="C:\\Users\\sv7vku\\workspace\\Battlefield\\BattlefieldOneCompanion\\source\\BasicDetailsDelegate.mc" lineNum="15" pc="268441680" symbol="onBack"/>
-<entry filename="Rez" lineNum="19" pc="268441713" symbol="initialize"/>
-<entry filename="Rez" lineNum="20" pc="268441717" symbol="initialize"/>
-<entry filename="Rez" lineNum="21" pc="268441735" symbol="initialize"/>
-<entry filename="Rez" lineNum="22" pc="268441787" symbol="initialize"/>
-<entry filename="Rez" lineNum="23" pc="268441839" symbol="initialize"/>
-<entry filename="Rez" lineNum="24" pc="268441891" symbol="initialize"/>
-<entry filename="Rez" lineNum="25" pc="268441943" symbol="initialize"/>
-<entry filename="Rez" lineNum="41" pc="268441996" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="43" pc="268442008" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="44" pc="268442171" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="45" pc="268442196" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="46" pc="268442248" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="47" pc="268442364" symbol="MainLayout"/>
-<entry filename="Rez" lineNum="50" pc="268442416" symbol="MainLayout"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="11" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="12" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="18" pc="268435491" symbol="onReceiveBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="19" pc="268435495" symbol="onReceiveBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="20" pc="268435518" symbol="onReceiveBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="21" pc="268435529" symbol="onReceiveBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="22" pc="268435552" symbol="onReceiveBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="23" pc="268435578" symbol="onReceiveBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="25" pc="268435598" symbol="onReceiveBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="28" pc="268435611" symbol="onReceiveBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="29" pc="268435637" symbol="onReceiveBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="33" pc="268435658" symbol="onReceiveDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="34" pc="268435662" symbol="onReceiveDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="35" pc="268435685" symbol="onReceiveDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="36" pc="268435696" symbol="onReceiveDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="37" pc="268435719" symbol="onReceiveDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="38" pc="268435745" symbol="onReceiveDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="40" pc="268435765" symbol="onReceiveDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="43" pc="268435778" symbol="onReceiveDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="44" pc="268435804" symbol="onReceiveDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="48" pc="268435825" symbol="GetData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="49" pc="268435829" symbol="GetData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="50" pc="268435836" symbol="GetData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="51" pc="268435843" symbol="GetData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="52" pc="268435871" symbol="GetData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="55" pc="268435888" symbol="makeHttpCall"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="56" pc="268435892" symbol="makeHttpCall"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="58" pc="268435926" symbol="makeHttpCall"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="60" pc="268435947" symbol="makeHttpCall"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="66" pc="268436005" symbol="makeHttpCall"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="68" pc="268436005" symbol="makeHttpCall"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="69" pc="268436024" symbol="makeHttpCall"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="71" pc="268436045" symbol="makeHttpCall"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="74" pc="268436063" symbol="makeHttpCall"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="77" pc="268436087" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="78" pc="268436091" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="79" pc="268436091" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="80" pc="268436110" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="82" pc="268436123" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="84" pc="268436133" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="86" pc="268436146" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="88" pc="268436181" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="89" pc="268436199" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="90" pc="268436237" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="91" pc="268436256" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="92" pc="268436276" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="93" pc="268436296" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="97" pc="268436309" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="99" pc="268436326" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="100" pc="268436346" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="101" pc="268436366" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="105" pc="268436379" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="107" pc="268436393" symbol="parseType"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="110" pc="268436406" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="111" pc="268436410" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="112" pc="268436436" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="113" pc="268436462" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="114" pc="268436481" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="116" pc="268436500" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="117" pc="268436535" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="119" pc="268436570" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="120" pc="268436588" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="121" pc="268436606" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="122" pc="268436644" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="124" pc="268436682" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="125" pc="268436702" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="126" pc="268436726" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="128" pc="268436762" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="129" pc="268436782" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="133" pc="268436795" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="135" pc="268436809" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="136" pc="268436829" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="137" pc="268436849" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="141" pc="268436862" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="142" pc="268436876" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="143" pc="268436885" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="144" pc="268436894" symbol="parseAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="147" pc="268436907" symbol="arrayToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="148" pc="268436911" symbol="arrayToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="149" pc="268436919" symbol="arrayToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="150" pc="268436943" symbol="arrayToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="151" pc="268436961" symbol="arrayToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="152" pc="268436984" symbol="arrayToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="153" pc="268437011" symbol="arrayToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="155" pc="268437017" symbol="arrayToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="156" pc="268437061" symbol="arrayToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="158" pc="268437090" symbol="arrayToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="161" pc="268437094" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="162" pc="268437098" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="163" pc="268437106" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="164" pc="268437126" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="165" pc="268437126" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="166" pc="268437141" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="167" pc="268437148" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="168" pc="268437168" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="169" pc="268437186" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="171" pc="268437193" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="172" pc="268437207" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="175" pc="268437242" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="176" pc="268437260" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="177" pc="268437286" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="178" pc="268437300" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="181" pc="268437335" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="182" pc="268437349" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="186" pc="268437359" symbol="tokenizeStringBasic"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="189" pc="268437363" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="190" pc="268437367" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="191" pc="268437375" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="192" pc="268437395" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="193" pc="268437395" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="194" pc="268437410" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="195" pc="268437417" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="196" pc="268437437" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="197" pc="268437455" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="198" pc="268437462" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="199" pc="268437480" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="201" pc="268437487" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="202" pc="268437501" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="205" pc="268437536" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="206" pc="268437554" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="207" pc="268437580" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="208" pc="268437594" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="211" pc="268437629" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="212" pc="268437647" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="213" pc="268437673" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="214" pc="268437687" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="217" pc="268437722" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="218" pc="268437736" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="222" pc="268437746" symbol="tokenizeStringDetailed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="225" pc="268437750" symbol="detailedSpecStringToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="226" pc="268437754" symbol="detailedSpecStringToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="227" pc="268437762" symbol="detailedSpecStringToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="228" pc="268437782" symbol="detailedSpecStringToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="229" pc="268437797" symbol="detailedSpecStringToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="230" pc="268437804" symbol="detailedSpecStringToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="231" pc="268437840" symbol="detailedSpecStringToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="233" pc="268437875" symbol="detailedSpecStringToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="234" pc="268437920" symbol="detailedSpecStringToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="238" pc="268437930" symbol="detailedSpecStringToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="239" pc="268437938" symbol="detailedSpecStringToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="240" pc="268437962" symbol="detailedSpecStringToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="241" pc="268437976" symbol="detailedSpecStringToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="243" pc="268437982" symbol="detailedSpecStringToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="244" pc="268438005" symbol="detailedSpecStringToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="246" pc="268438048" symbol="detailedSpecStringToMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="249" pc="268438052" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="250" pc="268438056" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="251" pc="268438070" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="252" pc="268438084" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="254" pc="268438098" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="255" pc="268438122" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="256" pc="268438146" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="257" pc="268438170" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="258" pc="268438194" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="259" pc="268438218" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="260" pc="268438242" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="261" pc="268438266" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="262" pc="268438290" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="263" pc="268438314" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="264" pc="268438338" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="265" pc="268438362" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="266" pc="268438386" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="267" pc="268438410" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="268" pc="268438434" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="270" pc="268438458" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="271" pc="268438486" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="272" pc="268438514" symbol="detailedToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="275" pc="268438543" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="276" pc="268438547" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="277" pc="268438571" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="278" pc="268438595" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="279" pc="268438619" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="280" pc="268438643" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="281" pc="268438667" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="282" pc="268438691" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="283" pc="268438715" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="285" pc="268438739" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="286" pc="268438757" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="287" pc="268438781" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="288" pc="268438799" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="290" pc="268438822" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="291" pc="268438840" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="292" pc="268438864" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="293" pc="268438882" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="294" pc="268438905" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="295" pc="268438937" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="296" pc="268438961" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="297" pc="268438979" symbol="basicToStructure"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="300" pc="268439003" symbol="processGameData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="302" pc="268439007" symbol="processGameData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="303" pc="268439042" symbol="processGameData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="307" pc="268439062" symbol="processGameData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="308" pc="268439086" symbol="processGameData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="309" pc="268439107" symbol="processGameData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="310" pc="268439127" symbol="processGameData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="314" pc="268439166" symbol="processClassData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="316" pc="268439170" symbol="processClassData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="317" pc="268439205" symbol="processClassData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="319" pc="268439225" symbol="processClassData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="320" pc="268439249" symbol="processClassData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="321" pc="268439270" symbol="processClassData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="322" pc="268439290" symbol="processClassData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="326" pc="268439329" symbol="processVehicleData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="328" pc="268439333" symbol="processVehicleData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="329" pc="268439368" symbol="processVehicleData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="331" pc="268439388" symbol="processVehicleData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="332" pc="268439412" symbol="processVehicleData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="333" pc="268439433" symbol="processVehicleData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="334" pc="268439453" symbol="processVehicleData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="338" pc="268439492" symbol="printMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="339" pc="268439496" symbol="printMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="340" pc="268439509" symbol="printMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="341" pc="268439533" symbol="printMap"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="345" pc="268439593" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="346" pc="268439597" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="347" pc="268439629" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="348" pc="268439661" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="349" pc="268439693" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="350" pc="268439725" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="351" pc="268439757" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="352" pc="268439789" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="353" pc="268439821" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="354" pc="268439853" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="355" pc="268439885" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="356" pc="268439917" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="358" pc="268439949" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="359" pc="268439981" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="360" pc="268440013" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="361" pc="268440045" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="362" pc="268440077" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="363" pc="268440109" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="364" pc="268440141" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="365" pc="268440173" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="366" pc="268440205" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="367" pc="268440237" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="368" pc="268440269" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="369" pc="268440301" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="370" pc="268440333" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="371" pc="268440365" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\PlayerData.mc" lineNum="372" pc="268440397" symbol="printAllData"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="5" pc="268440430" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="6" pc="268440434" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="10" pc="268440453" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="11" pc="268440457" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="12" pc="268440494" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="13" pc="268440507" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="16" pc="268440540" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="17" pc="268440563" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="23" pc="268440587" symbol="onShow"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="27" pc="268440592" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="29" pc="268440596" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionView.mc" lineNum="35" pc="268440617" symbol="onHide"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="8" pc="268440622" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="9" pc="268440626" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="12" pc="268440645" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="13" pc="268440649" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="14" pc="268440660" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="17" pc="268440681" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="18" pc="268440704" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="20" pc="268440790" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="22" pc="268440825" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="24" pc="268440860" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionMenuDelegate.mc" lineNum="26" pc="268440895" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionDelegate.mc" lineNum="5" pc="268440920" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionDelegate.mc" lineNum="6" pc="268440924" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionDelegate.mc" lineNum="7" pc="268440942" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionApp.mc" lineNum="6" pc="268441027" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionApp.mc" lineNum="7" pc="268441031" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionApp.mc" lineNum="11" pc="268441050" symbol="onStart"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionApp.mc" lineNum="15" pc="268441055" symbol="onStop"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionApp.mc" lineNum="19" pc="268441060" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BattlefieldOneCompanionApp.mc" lineNum="20" pc="268441064" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="5" pc="268441132" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="6" pc="268441136" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="10" pc="268441155" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="11" pc="268441159" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="17" pc="268441197" symbol="onShow"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="21" pc="268441202" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="22" pc="268441206" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="23" pc="268441246" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="36" pc="268441322" symbol="onHide"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="43" pc="268441327" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="44" pc="268441331" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicView.mc" lineNum="45" pc="268441349" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicDetailsView.mc" lineNum="7" pc="268441434" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicDetailsView.mc" lineNum="8" pc="268441438" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicDetailsView.mc" lineNum="12" pc="268441457" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicDetailsView.mc" lineNum="20" pc="268441462" symbol="onShow"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicDetailsView.mc" lineNum="24" pc="268441467" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicDetailsView.mc" lineNum="47" pc="268441472" symbol="onHide"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicDetailsView.mc" lineNum="50" pc="268441477" symbol="keyPressed"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicDetailsDelegate.mc" lineNum="5" pc="268441482" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicDetailsDelegate.mc" lineNum="6" pc="268441486" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicDetailsDelegate.mc" lineNum="7" pc="268441504" symbol="initialize"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicDetailsDelegate.mc" lineNum="10" pc="268441589" symbol="onKey"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicDetailsDelegate.mc" lineNum="14" pc="268441594" symbol="onBack"/>
+<entry filename="C:\\Users\\Tyler\\eclipse-workspace\\BattlefieldOneCompanion\\BattlefieldOneCompanion\\source\\BasicDetailsDelegate.mc" lineNum="15" pc="268441598" symbol="onBack"/>
+<entry filename="Rez" lineNum="19" pc="268441631" symbol="initialize"/>
+<entry filename="Rez" lineNum="20" pc="268441635" symbol="initialize"/>
+<entry filename="Rez" lineNum="21" pc="268441653" symbol="initialize"/>
+<entry filename="Rez" lineNum="22" pc="268441705" symbol="initialize"/>
+<entry filename="Rez" lineNum="23" pc="268441757" symbol="initialize"/>
+<entry filename="Rez" lineNum="24" pc="268441809" symbol="initialize"/>
+<entry filename="Rez" lineNum="25" pc="268441861" symbol="initialize"/>
+<entry filename="Rez" lineNum="41" pc="268441914" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="43" pc="268441926" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="44" pc="268442089" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="45" pc="268442114" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="46" pc="268442166" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="47" pc="268442282" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="50" pc="268442334" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="17" object="true" symbol="PlayGameView"/>
 <entry id="15" object="true" symbol="BasicView"/>
 <entry field="true" id="26" symbol="menu_Label_Vehicles"/>
 <entry id="46" method="true" symbol="detailedToStructure"/>
-<entry field="true" id="60" symbol="losses"/>
+<entry field="true" id="59" symbol="losses"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389349" symbol="justification"/>
-<entry field="true" id="80" symbol="flagsDefended"/>
+<entry field="true" id="79" symbol="flagsDefended"/>
 <entry field="true" id="29" symbol="menu_Label_Games"/>
 <entry field="true" id="28" symbol="menu_label_Detailed"/>
 <entry id="8389097" method="true" symbol="onKey"/>
-<entry field="true" id="65" symbol="kills"/>
-<entry id="40" method="true" symbol="parseResponse"/>
+<entry field="true" id="64" symbol="kills"/>
 <entry field="true" id="33" symbol="username"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="52" method="true" symbol="printAllData"/>
@@ -331,9 +333,9 @@
 <entry id="24" object="true" symbol="MainMenu"/>
 <entry id="14" object="true" symbol="BattlefieldOneCompanionApp"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
-<entry field="true" id="67" symbol="timePlayed"/>
-<entry field="true" id="81" symbol="highestKillStreak"/>
-<entry id="84" symbol="Basic"/>
+<entry field="true" id="66" symbol="timePlayed"/>
+<entry field="true" id="80" symbol="highestKillStreak"/>
+<entry id="83" symbol="Basic"/>
 <entry id="43" method="true" symbol="tokenizeStringBasic"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="25" method="true" symbol="MainLayout"/>
@@ -341,184 +343,186 @@
 <entry field="true" id="31" symbol="menu_label_Basic"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry field="true" id="71" symbol="accuracyRation"/>
-<entry field="true" id="73" symbol="favoriteClass"/>
-<entry field="true" id="66" symbol="kpm"/>
+<entry field="true" id="70" symbol="accuracyRation"/>
+<entry field="true" id="72" symbol="favoriteClass"/>
+<entry field="true" id="65" symbol="kpm"/>
 <entry id="50" method="true" symbol="processVehicleData"/>
 <entry id="39" method="true" symbol="makeHttpCall"/>
 <entry field="true" id="27" symbol="menu_Label_Classes"/>
 <entry id="10" object="true" symbol="PlayerData"/>
 <entry field="true" id="8389807" symbol="data"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="55" symbol="vehicleDatas"/>
+<entry field="true" id="54" symbol="vehicleDatas"/>
 <entry field="true" id="32" symbol="AppName"/>
 <entry id="51" method="true" symbol="printMap"/>
 <entry id="8389594" symbol="headers"/>
-<entry field="true" id="70" symbol="killAssists"/>
+<entry field="true" id="69" symbol="killAssists"/>
 <entry id="11" object="true" symbol="BattlefieldOneCompanionView"/>
 <entry id="45" method="true" symbol="detailedSpecStringToMap"/>
 <entry field="true" id="34" symbol="basicData"/>
-<entry field="true" id="77" symbol="kdr"/>
-<entry field="true" id="79" symbol="repairs"/>
+<entry field="true" id="76" symbol="kdr"/>
+<entry field="true" id="78" symbol="repairs"/>
 <entry id="37" method="true" symbol="onReceiveDetailed"/>
-<entry field="true" id="75" symbol="suppressionAssist"/>
+<entry field="true" id="74" symbol="suppressionAssist"/>
 <entry field="true" id="23" symbol="LauncherIcon"/>
-<entry id="88" symbol="Games"/>
+<entry id="87" symbol="Games"/>
 <entry id="8389081" method="true" symbol="onBack"/>
 <entry id="8388786" method="true" symbol="method"/>
-<entry field="true" id="53" symbol="dataType"/>
-<entry field="true" id="78" symbol="heals"/>
+<entry field="true" id="77" symbol="heals"/>
 <entry id="41" method="true" symbol="parseAllData"/>
 <entry id="8389281" method="true" symbol="onStop"/>
-<entry field="true" id="72" symbol="headShots"/>
+<entry field="true" id="71" symbol="headShots"/>
 <entry field="true" id="8389065" symbol="locY"/>
 <entry field="true" id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="38" method="true" symbol="GetData"/>
-<entry field="true" id="58" symbol="currentRankExperience"/>
+<entry field="true" id="57" symbol="currentRankExperience"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
-<entry field="true" id="68" symbol="revives"/>
+<entry field="true" id="67" symbol="revives"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry field="true" id="61" symbol="wins"/>
-<entry field="true" id="57" symbol="rank"/>
+<entry field="true" id="60" symbol="wins"/>
+<entry field="true" id="56" symbol="rank"/>
 <entry id="16" object="true" symbol="BasicDelegate"/>
 <entry field="true" id="22" symbol="id_monkey"/>
 <entry id="13" object="true" symbol="BattlefieldOneCompanionDelegate"/>
-<entry field="true" id="69" symbol="longestHeadShot"/>
+<entry field="true" id="68" symbol="longestHeadShot"/>
 <entry id="8389348" symbol="font"/>
 <entry id="44" method="true" symbol="tokenizeStringDetailed"/>
 <entry id="8389347" symbol="color"/>
-<entry id="85" symbol="Detailed"/>
-<entry id="86" symbol="Classes"/>
+<entry id="84" symbol="Detailed"/>
+<entry id="85" symbol="Classes"/>
 <entry id="47" method="true" symbol="basicToStructure"/>
 <entry id="8389109" method="true" symbol="onMenuItem"/>
 <entry field="true" id="9" symbol="playerData"/>
 <entry id="18" object="true" symbol="BasicDetailsDelegate"/>
-<entry field="true" id="76" symbol="roundsPlayed"/>
-<entry id="87" symbol="Vehicles"/>
-<entry field="true" id="82" symbol="squadScore"/>
+<entry field="true" id="75" symbol="roundsPlayed"/>
+<entry id="86" symbol="Vehicles"/>
+<entry field="true" id="81" symbol="squadScore"/>
 <entry id="12" object="true" symbol="BattlefieldOneCompanionMenuDelegate"/>
 <entry id="21" module="true" symbol="Layouts"/>
 <entry field="true" id="30" symbol="prompt"/>
-<entry field="true" id="59" symbol="totalRankExperience"/>
+<entry field="true" id="58" symbol="totalRankExperience"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry field="true" id="56" symbol="gameDatas"/>
+<entry field="true" id="55" symbol="gameDatas"/>
 <entry id="49" method="true" symbol="processClassData"/>
 <entry id="8389345" symbol="rezId"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-<entry field="true" id="62" symbol="spm"/>
+<entry field="true" id="61" symbol="spm"/>
 <entry id="8389844" symbol="responseType"/>
 <entry id="8389346" symbol="text"/>
 <entry field="true" id="8389063" symbol="identifier"/>
-<entry field="true" id="63" symbol="skill"/>
+<entry field="true" id="62" symbol="skill"/>
 <entry id="48" method="true" symbol="processGameData"/>
-<entry field="true" id="54" symbol="classDatas"/>
+<entry field="true" id="53" symbol="classDatas"/>
 <entry id="20" module="true" symbol="Menus"/>
-<entry field="true" id="64" symbol="deaths"/>
+<entry field="true" id="63" symbol="deaths"/>
 <entry id="36" method="true" symbol="onReceiveBasic"/>
 <entry field="true" id="35" symbol="detailedData"/>
+<entry id="40" method="true" symbol="parseType"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-<entry field="true" id="74" symbol="flagsCaptured"/>
+<entry field="true" id="73" symbol="flagsCaptured"/>
 </symbolTable>
 <localVars>
 <entry endPc="268435658" name="responseCode" stackId="1" startPc="268435491"/>
 <entry endPc="268435658" name="data" stackId="2" startPc="268435491"/>
 <entry endPc="268435825" name="responseCode" stackId="1" startPc="268435658"/>
 <entry endPc="268435825" name="data" stackId="2" startPc="268435658"/>
-<entry endPc="268435895" name="platform" stackId="2" startPc="268435829"/>
-<entry endPc="268435895" name="url" stackId="4" startPc="268435829"/>
-<entry endPc="268435895" name="username" stackId="3" startPc="268435829"/>
-<entry endPc="268435896" name="specType" stackId="1" startPc="268435825"/>
-<entry endPc="268436100" name="options" stackId="4" startPc="268435900"/>
-<entry endPc="268436100" name="responseCallback" stackId="5" startPc="268435900"/>
-<entry endPc="268436100" name="headers" stackId="3" startPc="268435900"/>
-<entry endPc="268436100" name="param" stackId="2" startPc="268435900"/>
-<entry endPc="268436101" name="url" stackId="1" startPc="268435896"/>
-<entry endPc="268436301" name="keyArray" stackId="6" startPc="268436234"/>
-<entry endPc="268436301" name="dataArray" stackId="4" startPc="268436234"/>
-<entry endPc="268436301" name="dataMap" stackId="5" startPc="268436234"/>
-<entry endPc="268436371" name="keyArray" stackId="9" startPc="268436304"/>
-<entry endPc="268436371" name="dataArray" stackId="7" startPc="268436304"/>
-<entry endPc="268436371" name="dataMap" stackId="8" startPc="268436304"/>
-<entry endPc="268436371" name="index" stackId="3" startPc="268436105"/>
-<entry endPc="268436371" name="dataString" stackId="2" startPc="268436105"/>
-<entry endPc="268436372" name="data" stackId="1" startPc="268436101"/>
-<entry endPc="268436728" name="i" stackId="6" startPc="268436692"/>
-<entry endPc="268436872" name="detailedDataArray" stackId="9" startPc="268436376"/>
-<entry endPc="268436872" name="basicIndex" stackId="3" startPc="268436376"/>
-<entry endPc="268436872" name="basicDataString" stackId="1" startPc="268436376"/>
-<entry endPc="268436872" name="basicDataMap" stackId="7" startPc="268436376"/>
-<entry endPc="268436872" name="basicDataArray" stackId="5" startPc="268436376"/>
-<entry endPc="268436872" name="keyArray2" stackId="11" startPc="268436376"/>
-<entry endPc="268436872" name="detailedDataMap" stackId="10" startPc="268436376"/>
-<entry endPc="268436872" name="keyArray1" stackId="8" startPc="268436376"/>
-<entry endPc="268436872" name="detailedDataString" stackId="2" startPc="268436376"/>
-<entry endPc="268436872" name="detailedIndex" stackId="4" startPc="268436376"/>
-<entry endPc="268437046" name="index" stackId="5" startPc="268436909"/>
-<entry endPc="268437046" name="key" stackId="6" startPc="268436909"/>
-<entry endPc="268437046" name="value" stackId="7" startPc="268436909"/>
-<entry endPc="268437059" name="i" stackId="4" startPc="268436909"/>
-<entry endPc="268437062" name="stringMap" stackId="3" startPc="268436877"/>
-<entry endPc="268437063" name="delimiter" stackId="1" startPc="268436873"/>
-<entry endPc="268437063" name="array" stackId="2" startPc="268436873"/>
-<entry endPc="268437314" name="closeIndex" stackId="7" startPc="268437224"/>
-<entry endPc="268437314" name="bracket" stackId="6" startPc="268437130"/>
-<entry endPc="268437358" name="index" stackId="5" startPc="268437108"/>
-<entry endPc="268437358" name="tempString" stackId="4" startPc="268437108"/>
-<entry endPc="268437364" name="stringArray" stackId="3" startPc="268437067"/>
-<entry endPc="268437365" name="delimiter" stackId="1" startPc="268437063"/>
-<entry endPc="268437365" name="string" stackId="2" startPc="268437063"/>
-<entry endPc="268437641" name="closeIndex" stackId="8" startPc="268437551"/>
-<entry endPc="268437641" name="bracket2" stackId="7" startPc="268437477"/>
-<entry endPc="268437734" name="closeIndex" stackId="9" startPc="268437644"/>
-<entry endPc="268437734" name="bracket" stackId="6" startPc="268437432"/>
-<entry endPc="268437758" name="index" stackId="5" startPc="268437410"/>
-<entry endPc="268437758" name="tempString" stackId="4" startPc="268437410"/>
-<entry endPc="268437764" name="stringArray" stackId="3" startPc="268437369"/>
-<entry endPc="268437765" name="delimiter" stackId="1" startPc="268437365"/>
-<entry endPc="268437765" name="string" stackId="2" startPc="268437365"/>
-<entry endPc="268437955" name="index" stackId="4" startPc="268437810"/>
-<entry endPc="268438076" name="gameArray" stackId="7" startPc="268438003"/>
-<entry endPc="268438089" name="i" stackId="6" startPc="268438003"/>
-<entry endPc="268438092" name="arrayMap" stackId="5" startPc="268437769"/>
-<entry endPc="268438092" name="stringArray" stackId="3" startPc="268437769"/>
-<entry endPc="268438093" name="wholeString" stackId="2" startPc="268437765"/>
-<entry endPc="268438093" name="newLineString" stackId="1" startPc="268437765"/>
-<entry endPc="268438584" name="dataMap" stackId="1" startPc="268438093"/>
-<entry endPc="268439043" name="indexStart" stackId="3" startPc="268438588"/>
-<entry endPc="268439043" name="rankString" stackId="2" startPc="268438588"/>
-<entry endPc="268439043" name="expString" stackId="5" startPc="268438588"/>
-<entry endPc="268439043" name="indexEnd" stackId="4" startPc="268438588"/>
-<entry endPc="268439044" name="dataMap" stackId="1" startPc="268438584"/>
-<entry endPc="268439193" name="name" stackId="4" startPc="268439127"/>
-<entry endPc="268439206" name="i" stackId="3" startPc="268439127"/>
-<entry endPc="268439206" name="dataArrayMap" stackId="2" startPc="268439048"/>
-<entry endPc="268439207" name="gameData" stackId="1" startPc="268439044"/>
-<entry endPc="268439356" name="name" stackId="4" startPc="268439290"/>
-<entry endPc="268439369" name="i" stackId="3" startPc="268439290"/>
-<entry endPc="268439369" name="dataArrayMap" stackId="2" startPc="268439211"/>
-<entry endPc="268439370" name="classData" stackId="1" startPc="268439207"/>
-<entry endPc="268439519" name="name" stackId="4" startPc="268439453"/>
-<entry endPc="268439532" name="i" stackId="3" startPc="268439453"/>
-<entry endPc="268439532" name="dataArrayMap" stackId="2" startPc="268439374"/>
-<entry endPc="268439533" name="vehicleData" stackId="1" startPc="268439370"/>
-<entry endPc="268439633" name="i" stackId="3" startPc="268439574"/>
-<entry endPc="268439633" name="keyArray" stackId="2" startPc="268439537"/>
-<entry endPc="268439634" name="map" stackId="1" startPc="268439533"/>
-<entry endPc="268440628" name="dc" stackId="1" startPc="268440494"/>
-<entry endPc="268440658" name="dc" stackId="1" startPc="268440633"/>
-<entry endPc="268441002" name="item" stackId="1" startPc="268440686"/>
-<entry endPc="268441137" name="state" stackId="1" startPc="268441132"/>
-<entry endPc="268441142" name="state" stackId="1" startPc="268441137"/>
-<entry endPc="268441279" name="dc" stackId="1" startPc="268441237"/>
-<entry endPc="268441404" name="dc" stackId="1" startPc="268441284"/>
-<entry endPc="268441544" name="dc" stackId="1" startPc="268441539"/>
-<entry endPc="268441554" name="dc" stackId="1" startPc="268441549"/>
-<entry endPc="268441564" name="keyEvent" stackId="1" startPc="268441559"/>
-<entry endPc="268442443" name="rez_cmp_local_bitmap_J21Q2PP7DI_fontHeight" stackId="3" startPc="268442008"/>
-<entry endPc="268442443" name="rez_cmp_local_bitmap_J21Q2PP7DI" stackId="2" startPc="268442008"/>
-<entry endPc="268442443" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268442008"/>
-<entry endPc="268442444" name="dc" stackId="1" startPc="268441996"/>
+<entry endPc="268435887" name="platform" stackId="2" startPc="268435829"/>
+<entry endPc="268435887" name="url" stackId="4" startPc="268435829"/>
+<entry endPc="268435887" name="username" stackId="3" startPc="268435829"/>
+<entry endPc="268435888" name="specType" stackId="1" startPc="268435825"/>
+<entry endPc="268436086" name="options" stackId="5" startPc="268435892"/>
+<entry endPc="268436086" name="responseCallback" stackId="6" startPc="268435892"/>
+<entry endPc="268436086" name="headers" stackId="4" startPc="268435892"/>
+<entry endPc="268436086" name="param" stackId="3" startPc="268435892"/>
+<entry endPc="268436087" name="url" stackId="1" startPc="268435888"/>
+<entry endPc="268436087" name="type" stackId="2" startPc="268435888"/>
+<entry endPc="268436323" name="keyArray" stackId="7" startPc="268436256"/>
+<entry endPc="268436323" name="dataArray" stackId="5" startPc="268436256"/>
+<entry endPc="268436323" name="dataMap" stackId="6" startPc="268436256"/>
+<entry endPc="268436393" name="keyArray" stackId="10" startPc="268436326"/>
+<entry endPc="268436393" name="dataArray" stackId="8" startPc="268436326"/>
+<entry endPc="268436393" name="dataMap" stackId="9" startPc="268436326"/>
+<entry endPc="268436405" name="index" stackId="4" startPc="268436091"/>
+<entry endPc="268436405" name="dataString" stackId="3" startPc="268436091"/>
+<entry endPc="268436405" name="data" stackId="2" startPc="268436091"/>
+<entry endPc="268436406" name="type" stackId="1" startPc="268436087"/>
+<entry endPc="268436762" name="i" stackId="6" startPc="268436726"/>
+<entry endPc="268436906" name="detailedDataArray" stackId="9" startPc="268436410"/>
+<entry endPc="268436906" name="basicIndex" stackId="3" startPc="268436410"/>
+<entry endPc="268436906" name="basicDataString" stackId="1" startPc="268436410"/>
+<entry endPc="268436906" name="basicDataMap" stackId="7" startPc="268436410"/>
+<entry endPc="268436906" name="basicDataArray" stackId="5" startPc="268436410"/>
+<entry endPc="268436906" name="keyArray2" stackId="11" startPc="268436410"/>
+<entry endPc="268436906" name="detailedDataMap" stackId="10" startPc="268436410"/>
+<entry endPc="268436906" name="keyArray1" stackId="8" startPc="268436410"/>
+<entry endPc="268436906" name="detailedDataString" stackId="2" startPc="268436410"/>
+<entry endPc="268436906" name="detailedIndex" stackId="4" startPc="268436410"/>
+<entry endPc="268437077" name="index" stackId="5" startPc="268436943"/>
+<entry endPc="268437077" name="key" stackId="6" startPc="268436943"/>
+<entry endPc="268437077" name="value" stackId="7" startPc="268436943"/>
+<entry endPc="268437090" name="i" stackId="4" startPc="268436943"/>
+<entry endPc="268437093" name="stringMap" stackId="3" startPc="268436911"/>
+<entry endPc="268437094" name="delimiter" stackId="1" startPc="268436907"/>
+<entry endPc="268437094" name="array" stackId="2" startPc="268436907"/>
+<entry endPc="268437332" name="closeIndex" stackId="7" startPc="268437242"/>
+<entry endPc="268437332" name="bracket" stackId="6" startPc="268437148"/>
+<entry endPc="268437356" name="index" stackId="5" startPc="268437126"/>
+<entry endPc="268437356" name="tempString" stackId="4" startPc="268437126"/>
+<entry endPc="268437362" name="stringArray" stackId="3" startPc="268437098"/>
+<entry endPc="268437363" name="delimiter" stackId="1" startPc="268437094"/>
+<entry endPc="268437363" name="string" stackId="2" startPc="268437094"/>
+<entry endPc="268437626" name="closeIndex" stackId="8" startPc="268437536"/>
+<entry endPc="268437626" name="bracket2" stackId="7" startPc="268437462"/>
+<entry endPc="268437719" name="closeIndex" stackId="9" startPc="268437629"/>
+<entry endPc="268437719" name="bracket" stackId="6" startPc="268437417"/>
+<entry endPc="268437743" name="index" stackId="5" startPc="268437395"/>
+<entry endPc="268437743" name="tempString" stackId="4" startPc="268437395"/>
+<entry endPc="268437749" name="stringArray" stackId="3" startPc="268437367"/>
+<entry endPc="268437750" name="delimiter" stackId="1" startPc="268437363"/>
+<entry endPc="268437750" name="string" stackId="2" startPc="268437363"/>
+<entry endPc="268437927" name="index" stackId="4" startPc="268437782"/>
+<entry endPc="268438035" name="gameArray" stackId="7" startPc="268437962"/>
+<entry endPc="268438048" name="i" stackId="6" startPc="268437962"/>
+<entry endPc="268438051" name="arrayMap" stackId="5" startPc="268437754"/>
+<entry endPc="268438051" name="stringArray" stackId="3" startPc="268437754"/>
+<entry endPc="268438052" name="wholeString" stackId="2" startPc="268437750"/>
+<entry endPc="268438052" name="newLineString" stackId="1" startPc="268437750"/>
+<entry endPc="268438543" name="dataMap" stackId="1" startPc="268438052"/>
+<entry endPc="268439002" name="indexStart" stackId="3" startPc="268438547"/>
+<entry endPc="268439002" name="rankString" stackId="2" startPc="268438547"/>
+<entry endPc="268439002" name="expString" stackId="5" startPc="268438547"/>
+<entry endPc="268439002" name="indexEnd" stackId="4" startPc="268438547"/>
+<entry endPc="268439003" name="dataMap" stackId="1" startPc="268438543"/>
+<entry endPc="268439152" name="name" stackId="4" startPc="268439086"/>
+<entry endPc="268439165" name="i" stackId="3" startPc="268439086"/>
+<entry endPc="268439165" name="dataArrayMap" stackId="2" startPc="268439007"/>
+<entry endPc="268439166" name="gameData" stackId="1" startPc="268439003"/>
+<entry endPc="268439315" name="name" stackId="4" startPc="268439249"/>
+<entry endPc="268439328" name="i" stackId="3" startPc="268439249"/>
+<entry endPc="268439328" name="dataArrayMap" stackId="2" startPc="268439170"/>
+<entry endPc="268439329" name="classData" stackId="1" startPc="268439166"/>
+<entry endPc="268439478" name="name" stackId="4" startPc="268439412"/>
+<entry endPc="268439491" name="i" stackId="3" startPc="268439412"/>
+<entry endPc="268439491" name="dataArrayMap" stackId="2" startPc="268439333"/>
+<entry endPc="268439492" name="vehicleData" stackId="1" startPc="268439329"/>
+<entry endPc="268439592" name="i" stackId="3" startPc="268439533"/>
+<entry endPc="268439592" name="keyArray" stackId="2" startPc="268439496"/>
+<entry endPc="268439593" name="map" stackId="1" startPc="268439492"/>
+<entry endPc="268440587" name="dc" stackId="1" startPc="268440453"/>
+<entry endPc="268440617" name="dc" stackId="1" startPc="268440592"/>
+<entry endPc="268440920" name="item" stackId="1" startPc="268440645"/>
+<entry endPc="268441055" name="state" stackId="1" startPc="268441050"/>
+<entry endPc="268441060" name="state" stackId="1" startPc="268441055"/>
+<entry endPc="268441197" name="dc" stackId="1" startPc="268441155"/>
+<entry endPc="268441322" name="dc" stackId="1" startPc="268441202"/>
+<entry endPc="268441462" name="dc" stackId="1" startPc="268441457"/>
+<entry endPc="268441472" name="dc" stackId="1" startPc="268441467"/>
+<entry endPc="268441482" name="keyEvent" stackId="1" startPc="268441477"/>
+<entry endPc="268442361" name="rez_cmp_local_bitmap_DIR9D3F5ID" stackId="2" startPc="268441926"/>
+<entry endPc="268442361" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268441926"/>
+<entry endPc="268442361" name="rez_cmp_local_bitmap_DIR9D3F5ID_fontHeight" stackId="3" startPc="268441926"/>
+<entry endPc="268442362" name="dc" stackId="1" startPc="268441914"/>
 </localVars>
 <annotations/>
 <functions>
@@ -541,10 +545,11 @@
 </functionEntry>
 <functionEntry accessMode="public" name="makeHttpCall" parent="PlayerData">
 <param id="url"/>
+<param id="type"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" name="parseResponse" parent="PlayerData">
-<param id="data"/>
+<functionEntry accessMode="public" name="parseType" parent="PlayerData">
+<param id="type"/>
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="parseAllData" parent="PlayerData">
@@ -712,8 +717,8 @@
 <dataEntry offset="915" parentId="globals" symbolId="BasicDelegate" type="class"/>
 <dataEntry offset="962" parentId="globals" symbolId="BattlefieldOneCompanionApp" type="class"/>
 <dataEntry offset="1033" parentId="globals" symbolId="PlayerData" type="class"/>
-<dataEntry offset="1472" parentId="globals" symbolId="BattlefieldOneCompanionDelegate" type="class"/>
-<dataEntry offset="1519" parentId="globals" symbolId="BattlefieldOneCompanionView" type="class"/>
-<dataEntry offset="1598" parentId="globals" symbolId="BattlefieldOneCompanionMenuDelegate" type="class"/>
+<dataEntry offset="1464" parentId="globals" symbolId="BattlefieldOneCompanionDelegate" type="class"/>
+<dataEntry offset="1511" parentId="globals" symbolId="BattlefieldOneCompanionView" type="class"/>
+<dataEntry offset="1590" parentId="globals" symbolId="BattlefieldOneCompanionMenuDelegate" type="class"/>
 </dataEntryOffsetMappings>
 </debugInfo>
